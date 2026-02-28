@@ -1,83 +1,21 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  background-color: #f4f4f4;
-}
+<section class="about">
+  <div class="about-content">
+    <h2>About Our Website</h2>
+    <p>
+      We created this website for people who are interested in learning more about cars and making informed decisions when buying them. The website provides detailed information about a wide range of vehicles, including their prices, different models, and the year each vehicle was manufactured. This allows users to compare cars easily and understand how values change over time.
+    </p>
 
-header {
-  background: black;
-  padding: 15px;
-}
+    <p>
+      We also provide information about the different parts inside a vehicle and how they function, including the engine, transmission, brakes, and electrical systems. By breaking down these components in a clear and simple way, users can learn how a car works and why certain parts are important for reliability and maintenance.
+    </p>
 
-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+    <p>
+      We also allow you to see your car's exact design and parts in a 3D model on the website so you get a better visual of what makes your car function properly.
+    </p>
 
-nav a {
-  color: white;
-  text-decoration: none;
-  margin: 0 10px;
-  font-weight: bold;
-}
-
-nav a:hover {
-  color: #00bfff;
-}
-
-h1 {
-  color: white;
-}
-
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding: 20px;
-}
-
-.card {
-  background: white;
-  width: 250px;
-  margin: 15px;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-  overflow: hidden;
-  transition: transform 0.3s;
-}
-
-.card:hover {
-  transform: scale(1.05);
-}
-
-.card img {
-  width: 100%;
-  height: 150px;
-  object-fit: cover;
-}
-
-.card-content {
-  padding: 15px;
-}
-
-button {
-  padding: 8px 15px;
-  background-color: black;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #444;
-}
-
-footer {
-  background: black;
-  color: white;
-  text-align: center;
-  padding: 15px;
-  margin-top: 20px;
-}
+    <h3>Elevator Pitch</h3>
+    <p>
+      We help people who look for cars and specific information, and provide an in-depth description of the car and the parts. We also include a 3D model of your car if you search it on our website.
+    </p>
+  </div>
+</section>
