@@ -1,0 +1,43 @@
+<section class="container">
+
+  <div class="card">
+    <img src="images/mustang.jpg" alt="Ford Mustang">
+    <div class="card-content">
+      <h3>Ford Mustang</h3>
+      <p>A legendary sports car known for its power, speed, and iconic design.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="images/f150.jpg" alt="Ford F-150">
+    <div class="card-content">
+      <h3>Ford F-150</h3>
+      <p>A tough and dependable truck built for towing, hauling, and performance.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="images/explorer.jpg" alt="Ford Explorer">
+    <div class="card-content">
+      <h3>Ford Explorer</h3>
+      <p>A versatile SUV with strong performance and family-friendly space.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="images/escape.jpg" alt="Ford Escape">
+    <div class="card-content">
+      <h3>Ford Escape</h3>
+      <p>A compact SUV designed for efficiency, comfort, and everyday driving.</p>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="images/mach-e.jpg" alt="Ford Mustang Mach-E">
+    <div class="card-content">
+      <h3>Mustang Mach-E</h3>
+      <p>A modern electric SUV combining performance with zero emissions.</p>
+    </div>
+  </div>
+
+</section>
